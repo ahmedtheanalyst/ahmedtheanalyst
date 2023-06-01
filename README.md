@@ -1,16 +1,13 @@
-### Hi there 👋
+### Data Scientist & Analyst | Self Taught
 
-<!--
-**ahmedtheanalyst/ahmedtheanalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I will squeeze every ounce of insight from your data. I have a deep understanding of data analysis, to visual, to data cleaning. i like to move fast to help you move from data to insight to action.
 
-Here are some ideas to get you started:
+My skills include:
+-Python
+-SQL
+-Excel
+-Exploratory Data Analysis
+-Data Cleaning
+-Power Bi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ahmedtheanalyst)](https://github.com/anuraghazra/github-readme-stats)
