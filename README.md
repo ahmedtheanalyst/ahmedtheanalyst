@@ -10,4 +10,7 @@ My skills include:
 -Data Cleaning
 -Power Bi
 
+You can see some of my projects in the below repository.
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ahmedtheanalyst)](https://github.com/anuraghazra/github-readme-stats)
+
